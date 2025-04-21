@@ -23,5 +23,4 @@ function Task({ name, date, onDelete }) {
     </div>
   );
 }
-
 export default Task;
